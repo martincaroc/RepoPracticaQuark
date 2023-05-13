@@ -1,6 +1,0 @@
-﻿  FileName.cpp
-A:\Programacion\RepoPracticaQuark\For\14PromedioAlumnosTurnos\14PromedioAlumnosTurnos\FileName.cpp(22,39): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-A:\Programacion\RepoPracticaQuark\For\14PromedioAlumnosTurnos\14PromedioAlumnosTurnos\FileName.cpp(30,37): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-A:\Programacion\RepoPracticaQuark\For\14PromedioAlumnosTurnos\14PromedioAlumnosTurnos\FileName.cpp(37,37): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-A:\Programacion\RepoPracticaQuark\For\14PromedioAlumnosTurnos\14PromedioAlumnosTurnos\FileName.cpp(6,6): warning C4101: 'f': variable local sin referencia
-  14PromedioAlumnosTurnos.vcxproj -> A:\Programacion\RepoPracticaQuark\For\14PromedioAlumnosTurnos\x64\Debug\14PromedioAlumnosTurnos.exe
