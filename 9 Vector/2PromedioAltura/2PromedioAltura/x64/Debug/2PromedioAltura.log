@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+A:\Programacion\RepoPracticaQuark\9 Vector\2PromedioAltura\2PromedioAltura\FileName.cpp(29,15): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+A:\Programacion\RepoPracticaQuark\9 Vector\2PromedioAltura\2PromedioAltura\FileName.cpp(31,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  2PromedioAltura.vcxproj -> A:\Programacion\RepoPracticaQuark\9 Vector\2PromedioAltura\x64\Debug\2PromedioAltura.exe
